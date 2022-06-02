@@ -1,4 +1,4 @@
-# Big_Data
+# Big_Data_Classification
 The objective is to build classification models in which it is possible to classify whether or not a computer is infected.
 
 As technology is developed, the volume of data increases, which means that it is increasingly possible to extract new knowledge. Thus, to better understand some Big Data analysis mechanisms, for this work we chose to work with the Microsoft Malware Prediction dataset with approximately 4 GB, which was extracted from Kaggle (https://www.kaggle.com/c/microsoft-malware-prediction/data?select=train.csv)
